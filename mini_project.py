@@ -1,5 +1,6 @@
 #Name:
 #Mini-Project - Build Your Own Game!
+
 '''
 This is YOUR game. You are the designer. There are only two requirements:
 
@@ -57,5 +58,6 @@ while loops, for loops, lists, random, and turtle graphics.
 ==============================================================================
 Build your game below. Delete this line and start coding!
 '''
+import turtle
 
 print("My game is not built yet!")
